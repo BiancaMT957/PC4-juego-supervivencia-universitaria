@@ -1,1 +1,1 @@
-# PC4-juego-supervivencia-universitaria
+# supervivencia-universitaria
